@@ -19,8 +19,8 @@ const Hero = () => (
           <Start/>
         </div>
       </div>
-      <h1 className='font-poppins font-semibold ss:text-[42px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-        Pocos entienden que pasa por aqui
+      <h1 className='font-poppins font-semibold ss:text-[42px] text-[52px] text-white ss:leading-[70px] leading-[60px] w-full'>
+        Pocos entienden <br className='sm:block hidden'/>que pasa por aqui
       </h1>
       <p className={`${styles.paragraph} max-w-[450px] mt-5`}>
         Esto es texto random.Esto es texto random. <br/>
