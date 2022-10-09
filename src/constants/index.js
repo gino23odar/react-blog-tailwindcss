@@ -14,7 +14,7 @@ export const navLinks = [
 export const topics = [
   {id: 'topic-1',
   title: 'Tema 1',
-  content: 'huehuehuehuehuehuehuehuehuehuehuehue'},
+  content: 'huehuehuehuehuehuehuehuehuehuehui'},
   {id: 'topic-2',
   title: 'Tema 2',
   content: 'worororororoororoworworoooowroororro'},
