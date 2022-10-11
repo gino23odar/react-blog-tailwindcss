@@ -112,15 +112,15 @@
   box-shadow: var(--card-shadow);
 }
 
-.feedback-container .feedback-card:last-child {
+.topic-container .topic-card:last-child {
   margin-right: 0px;
 }
 
-.feedback-card {
+.topic-card {
   background: transparent;
 }
 
-.feedback-card:hover {
+.topic-card:hover {
   background: var(--black-gradient);
 }
 
