@@ -68,7 +68,7 @@ export const authorQuotes = [
     id: "quote-6",
     content:
       "Quien tenga miedo de morir, que no nazca",
-    name: "Algun rarito en internet",
+    name: "Rarito en internet",
     title: "Incel",
     img: people06,
   },
