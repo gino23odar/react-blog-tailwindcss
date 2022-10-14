@@ -1,5 +1,5 @@
 
-import {twitter, people01, people02, people03, people04, people05, people06} from "../assets";
+import {twitter, insta, people01, people02, people03, people04, people05, people06} from "../assets";
 
 export const navLinks = [
   {id: 'inicio',
@@ -71,5 +71,18 @@ export const authorQuotes = [
     name: "Rarito en internet",
     title: "Incel",
     img: people06,
+  },
+];
+
+export const socialMedia = [
+  {
+    id: "social-media-1",
+    icon: insta,
+    link: "https://www.instagram.com/randO",
+  },
+  {
+    id: "social-media-2",
+    icon: twitter,
+    link: "https://www.twitter.com/randO",
   },
 ];
